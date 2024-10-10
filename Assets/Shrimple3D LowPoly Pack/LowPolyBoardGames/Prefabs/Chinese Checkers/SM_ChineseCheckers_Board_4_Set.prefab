@@ -1,0 +1,4124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7592251726195342583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7278028069160695645}
+  m_Layer: 0
+  m_Name: SM_ChineseCheckers_Board_4_Set
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7278028069160695645
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7592251726195342583}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7865489767227834369}
+  - {fileID: 8203369275977762726}
+  - {fileID: 4463360508303812967}
+  - {fileID: 4631225886718558510}
+  - {fileID: 5746375309635968773}
+  - {fileID: 6250168277917996420}
+  - {fileID: 8017589825007996846}
+  - {fileID: 7939131506543345239}
+  - {fileID: 8828139439782775331}
+  - {fileID: 1169203705830198084}
+  - {fileID: 4996697748806900357}
+  - {fileID: 951629993255423082}
+  - {fileID: 1867821760712249028}
+  - {fileID: 8873071696384187670}
+  - {fileID: 1879227191012296191}
+  - {fileID: 8959651780948870315}
+  - {fileID: 5967350294888572036}
+  - {fileID: 1954573513455853883}
+  - {fileID: 1736037064722648467}
+  - {fileID: 5575753946746753339}
+  - {fileID: 3855198880288328241}
+  - {fileID: 6180636465068834595}
+  - {fileID: 3571502882745266684}
+  - {fileID: 7820935558253051183}
+  - {fileID: 5870816720397345690}
+  - {fileID: 6658703738502906715}
+  - {fileID: 3622750631796098378}
+  - {fileID: 5651584228338949083}
+  - {fileID: 8566718982510137943}
+  - {fileID: 3815517440366544041}
+  - {fileID: 6929136105998043461}
+  - {fileID: 1323544631817873055}
+  - {fileID: 3474299586665835394}
+  - {fileID: 8494666446511304517}
+  - {fileID: 5770556086679163203}
+  - {fileID: 3160630421021679296}
+  - {fileID: 190783240062179178}
+  - {fileID: 991959358438477520}
+  - {fileID: 7657935654341624122}
+  - {fileID: 2428215058258784975}
+  - {fileID: 5615819935888696506}
+  - {fileID: 5520614475846059774}
+  - {fileID: 4839184489319015329}
+  - {fileID: 7683461630295001284}
+  - {fileID: 8000262818942462728}
+  - {fileID: 7959337653707112462}
+  - {fileID: 2703250492938929322}
+  - {fileID: 4572779209410258146}
+  - {fileID: 4589744946443651147}
+  - {fileID: 6454423774093530731}
+  - {fileID: 5401731489428575229}
+  - {fileID: 5980549863088566887}
+  - {fileID: 998325054253458869}
+  - {fileID: 8523032744171419988}
+  - {fileID: 1099780483188767976}
+  - {fileID: 2439453908001345915}
+  - {fileID: 3630235041727883572}
+  - {fileID: 2971996329349756969}
+  - {fileID: 2550501811283808353}
+  - {fileID: 6469582304171478663}
+  - {fileID: 3135829056015349179}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &263349101765622977
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08021
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &1323544631817873055 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 263349101765622977}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &452147244058950469
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.10994
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0799
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &8203369275977762726 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 452147244058950469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &581636937898972314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0118
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.13974
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &1867821760712249028 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 581636937898972314}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &715530055882495949
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.012
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09974
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &1736037064722648467 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 715530055882495949}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &781862759005764453
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0119
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09974
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &1954573513455853883 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 781862759005764453}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &859604118417858465
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.119839996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &1879227191012296191 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 859604118417858465}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &945117575582480064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0878
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.040239997
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &8828139439782775331 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 945117575582480064}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1395124197143366964
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1208
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06034
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &190783240062179178 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 1395124197143366964}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1772383903212410859
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.077
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05956
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &8000262818942462728 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 1772383903212410859}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1790834060406256461
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1209
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06014
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &8017589825007996846 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 1790834060406256461}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1851849623546397364
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1097
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.040239997
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &7939131506543345239 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 1851849623546397364}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1867689882765671661
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0989
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05936
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &7959337653707112462 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 1867689882765671661}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1925768383938821346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.13178
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0799
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &7865489767227834369 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 1925768383938821346}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2027592971719753707
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.088
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07989
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &998325054253458869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 2027592971719753707}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2034944852219712654
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.040039998
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &991959358438477520 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 2034944852219712654}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2075429522161899060
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0122
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.13974
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &951629993255423082 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 2075429522161899060}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2107476567383864359
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0658
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07976
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &7683461630295001284 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 2107476567383864359}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2214225986438227638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0771
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &1099780483188767976 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 2214225986438227638}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2335451462980201378
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.012
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.13975999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &3571502882745266684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 2335451462980201378}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2387874884789971303
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0987
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06014
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &6250168277917996420 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 2387874884789971303}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2436033266315801052
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0878
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08021
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &3474299586665835394 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 2436033266315801052}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2564969042936132458
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1209
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &3630235041727883572 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 2564969042936132458}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2575828953764601620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0339
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09966
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &3622750631796098378 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 2575828953764601620}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2628374561574916207
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.15980999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &3855198880288328241 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 2628374561574916207}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2669164179160719095
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0341
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09966
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &3815517440366544041 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 2669164179160719095}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3318266000815843976
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0989
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01976
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &6454423774093530731 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 3318266000815843976}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3468642731521379109
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0992
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &2439453908001345915 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 3468642731521379109}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3480005921655859345
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0991
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.020140002
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &2428215058258784975 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 3480005921655859345}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3646936763551091263
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0881
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.03996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &2550501811283808353 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 3646936763551091263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3798326441192234818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08765
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07976
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &4839184489319015329 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 3798326441192234818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4024821727505169869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0659
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0799
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &4631225886718558510 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 4024821727505169869}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4044611279088870374
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0769
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06014
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &5746375309635968773 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 4044611279088870374}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4091257074827223671
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1101
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.03996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &2971996329349756969 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 4091257074827223671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4189868102445630622
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0989
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06034
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &3160630421021679296 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 4189868102445630622}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4211154939742771289
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.13178
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07976
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &5615819935888696506 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 4211154939742771289}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4252322723338074653
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.10971
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07976
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &5520614475846059774 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 4252322723338074653}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4647964385560263108
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0002
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11976
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &5870816720397345690 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 4647964385560263108}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4657454077423326097
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 6948485278098521232, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Board_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_RootOrder
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8893772516627602757, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: dc0b4041133169449b23fa2f94f16546, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+--- !u!4 &3135829056015349179 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7720904958746797610, guid: 8a67d0244ae034b4db5552925aeb9386, type: 3}
+  m_PrefabInstance: {fileID: 4657454077423326097}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4750334880287787805
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.077
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06034
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &5770556086679163203 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 4750334880287787805}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4829714923803043897
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.10989
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07989
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &5980549863088566887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 4829714923803043897}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4839679866014973658
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0337
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09974
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &5967350294888572036 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 4839679866014973658}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4917858594739299709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0119
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.13975999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &6180636465068834595 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 4917858594739299709}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5200652441538213032
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0878
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.03996
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &4589744946443651147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 5200652441538213032}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5201979298432554201
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 59
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0991
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01956
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &6469582304171478663 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 5201979298432554201}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5254477111401158657
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1103
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.03996
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &4572779209410258146 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 5254477111401158657}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5363624280128525700
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0879
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0799
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &4463360508303812967 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 5363624280128525700}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5589461424133986565
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.022
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11976
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &6658703738502906715 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 5589461424133986565}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5917027740368402505
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.121
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05996
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Black (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+--- !u!4 &2703250492938929322 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: 7fb6caec23f7a3d46876718848aaa655, type: 3}
+  m_PrefabInstance: {fileID: 5917027740368402505}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6101920547726704859
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.16003
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &4996697748806900357 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 6101920547726704859}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6561595552426346915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.13202
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07989
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &5401731489428575229 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 6561595552426346915}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6672286137871747941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0338
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09974
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &5575753946746753339 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 6672286137871747941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6888189254919160197
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0119
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09966
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &5651584228338949083 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 6888189254919160197}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7213262917900514587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0661
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08021
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &8494666446511304517 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 7213262917900514587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7429443838530652169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0121
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.09966
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &8566718982510137943 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 7429443838530652169}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7469142956324714407
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.099
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.01994
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8995291328778364505, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Nephrite (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+--- !u!4 &1169203705830198084 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8619433808024583395, guid: d55be3dc56de5c3468a54f265e111ba1, type: 3}
+  m_PrefabInstance: {fileID: 7469142956324714407}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7475504068569686794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_RootOrder
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0659
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07989
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Yellow (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+--- !u!4 &8523032744171419988 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 73d33fe4433097744b179ee72f4fd1e3, type: 3}
+  m_PrefabInstance: {fileID: 7475504068569686794}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7699692986984302408
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0219
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.119839996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &8873071696384187670 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 7699692986984302408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7903436482494209781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0221
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.119839996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Blue (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+--- !u!4 &8959651780948870315 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 7a1547f0b19fdfc41b09cd8b246b3138, type: 3}
+  m_PrefabInstance: {fileID: 7903436482494209781}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8201207598386615067
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.13192
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08021
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &6929136105998043461 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 8201207598386615067}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8917063143375346532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0881
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.040039998
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_White (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+--- !u!4 &7657935654341624122 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 5e549a5632a4d8d4ea9c9fed09ef4246, type: 3}
+  m_PrefabInstance: {fileID: 8917063143375346532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9038791781544470385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7278028069160695645}
+    m_Modifications:
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0218
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11976
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923713123567075556, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+      propertyPath: m_Name
+      value: SM_ChineseCheckers_Piece_Red (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+--- !u!4 &7820935558253051183 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1295266789697608286, guid: 41b72de28bcb7304bbf1faef46a06835, type: 3}
+  m_PrefabInstance: {fileID: 9038791781544470385}
+  m_PrefabAsset: {fileID: 0}
